@@ -1,4 +1,7 @@
 # Jogo-da-velha
+
+![jogo-da-velha](https://user-images.githubusercontent.com/105875989/196572345-6fdb96c3-8cbe-4682-b86a-3584c5f3d555.gif)
+
  Jogo da velha feito usando JavaScript
 
 <hr>
