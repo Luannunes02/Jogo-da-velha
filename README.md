@@ -7,7 +7,7 @@
 <br>
 <h2><strong> 📝 Descrição:</strong></h2>    
 
-Jogo da velha feito usando JavaScript
+Jogo da velha feito usando JavaScript <br>
 <strong>Acesse o site e aproveite: https://jogo-da-velha-sable.vercel.app  </strong>
 <br>
 <br>
